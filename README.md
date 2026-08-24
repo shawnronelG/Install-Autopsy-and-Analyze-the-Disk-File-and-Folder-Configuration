@@ -58,7 +58,7 @@ File and Folder Configuration Analysis Results
 <img width="1600" height="898" alt="WhatsApp Image 2026-08-24 at 23 18 24" src="https://github.com/user-attachments/assets/7af21c2d-8827-48b2-aad2-216324a5b298" />
 <img width="1600" height="898" alt="WhatsApp Image 2026-08-24 at 23 18 39" src="https://github.com/user-attachments/assets/ba8e28ae-b0da-401d-bc8f-adf5af80fdc8" />
 <img width="1600" height="898" alt="WhatsApp Image 2026-08-24 at 23 20 38" src="https://github.com/user-attachments/assets/35907896-0fa5-47b7-8fb3-b197be611441" />
-<img width="1600" height="898" alt="WhatsApp Image 2026-08-24 at 23 20 38" src="https://github.com/user-attachments/assets/4b10046f-6ff0-434b-9e52-6d531e12ab5e" />
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/a05be652-7de3-411e-8392-f841f4ab7079" />
 <img width="1600" height="898" alt="WhatsApp Image 2026-08-24 at 23 24 50" src="https://github.com/user-attachments/assets/80187e79-9d7b-47f1-8920-7c401324ce98" />
 
 
